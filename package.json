@@ -10,9 +10,7 @@
   "bugs": {
     "url": "https://github.com/wunderkraut/gulp-task-lint-browser/issues"
   },
-  "dependencies": {},
-  "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "gulp": "^3.9.0",
     "gulp-eslint": "^1.0.0",
     "gulp-jscs": "^3.0.0",
@@ -20,5 +18,6 @@
     "gulp-notify": "^2.2.0",
     "lodash.defaultsdeep": "^3.10.0",
     "path": "^0.12.7"
-  }
+  },
+  "license": "MIT"
 }

@@ -13,10 +13,8 @@
   "dependencies": {
     "gulp": "^3.9.0",
     "gulp-eslint": "^1.0.0",
-    "gulp-jscs": "^3.0.0",
-    "gulp-jscs-stylish": "^1.2.1",
-    "gulp-notify": "^2.2.0",
     "lodash.defaultsdeep": "^3.10.0",
+    "node-notifier": "^4.3.1",
     "path": "^0.12.7"
   },
   "license": "MIT"

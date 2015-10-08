@@ -42,6 +42,7 @@ module.exports = function (gulp, gulpConfig) {
           icon: gulpConfig.notify.errorIcon,
           sound: false
         });
+        this.emit('end');
       });
   });
 };

@@ -1,6 +1,6 @@
 {
   "name": "gulp-task-lint-browser",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A gulp task for linting javascript intended to run in browsers.",
   "main": "index.js",
   "repository": {
